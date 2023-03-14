@@ -1,0 +1,19 @@
+nav{
+    position: sticky;
+    top: 0px;
+}
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+    height: 75px;
+    align-items: center;
+}
+.nav-container ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+.nav-container ul
+.Link{
+    text-decoration: none;
+}
