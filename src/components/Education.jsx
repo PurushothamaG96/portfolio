@@ -4,7 +4,7 @@ function Education(props) {
     return (
         <>
         <div className="container education-container">
-            <h1 className='display-2'>Education</h1>
+            <h1 className='display-2 text-primary'>Education</h1>
             <div className='sub-education-container'>
                 <div className='me-2'>
                     <img className='rounded-5' src="https://coursereport-production.imgix.net/uploads/school/logo/1312/original/10x_Academy_logo.png?w=72&h=72&dpr=1&q=75" alt="" />

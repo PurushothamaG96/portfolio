@@ -8,8 +8,8 @@ function Nav() {
                 <h1>{`<`}<span className='text-primary'>Purushothama</span>{`/>`}</h1>
                 <ul>
                     <li className='px-3'><Link to={"/"} className="Link">Home</Link></li>
-                    <li className='px-3'><Link to={"/contact"} className="Link">Contact me</Link></li>
                     <li className='px-3'><Link to={"/education"} className="Link">Education</Link></li>
+                    <li className='px-3'><Link to={"/contact"} className="Link">Contact me</Link></li>
                 </ul>
             </div>
         </nav>
