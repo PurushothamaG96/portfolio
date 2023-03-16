@@ -6,6 +6,10 @@
     width: 100%;
     min-height: 90vh;
     margin:5vh 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-start;
     
 }
 .card-container{
@@ -40,7 +44,7 @@
     font-size: larger;
     font-weight: 600;
     text-align: center;
-    text-decoration: none;
+    
 }
 a{
     text-decoration: none;
