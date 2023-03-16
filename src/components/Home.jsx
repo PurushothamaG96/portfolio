@@ -3,6 +3,7 @@ import Contactme from './Contactme';
 import Education from './Education';
 import { Link } from 'react-router-dom';
 import "./home.css"
+import Project from './Project';
 function Home(props) {
     return (
         <>
@@ -32,6 +33,7 @@ function Home(props) {
                     <img style={{height:"86vh"}} src="https://www.pngitem.com/pimgs/m/238-2384580_project-portfolio-management-software-hackathons-for-beginners-hd.png" alt="" />
                 </div>  
         </div>
+        <Project/>
         <Education/>
         <Contactme/>
         </>
