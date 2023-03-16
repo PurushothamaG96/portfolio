@@ -8,7 +8,7 @@ function Project(props) {
             <h1 className='display-3 text-primary'>Projects</h1>
             <div className='card-container'>
                 <div className='project-card'>
-                <a href="https://instaclone-frontend-5o0w.onrender.com/" target="_blank">
+                <a href="https://contact-manager-oe9x.onrender.com/" target="_blank">
                     <h1 className="text-white text-center">Contact Manager</h1>
                     <img className='hide-image' src="https://i.pcmag.com/imagery/roundups/03xvQQX5euoq30C7pYTGlPZ-2.fit_lim.size_850x490.v1631145621.jpg" alt=" Contact-manager" />
                     <p className='hide text-white'>Conatct Manager Project built for save and manage the Personel contacts by login with own credentials.</p>
