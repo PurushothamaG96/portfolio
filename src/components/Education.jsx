@@ -11,7 +11,7 @@ function Education(props) {
                 </div>
                 <div>
                     <h3>10x Academy</h3>
-                    <h4>Fullstack developer on MERN</h4>
+                    <h4>Fullstack web-application developer on MERN Stack technologies</h4>
                 </div>
             </div>
             <div className='sub-education-container'>
