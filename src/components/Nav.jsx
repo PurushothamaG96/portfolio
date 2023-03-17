@@ -20,6 +20,7 @@ function Nav() {
                 <h1 className='font'>{`<`}<span className='text-primary '>Purushothama</span>{`/>`}</h1>
                 <ul className={`${hideNav}`}>
                     <li className='px-3'><Link to={"/"} className="Link">Home</Link></li>
+                    <li className='px-3'><Link to={"/about"} className="Link">About</Link></li>
                     <li className='px-3'><Link to={"/project"} className="Link">Project</Link></li>
                     <li className='px-3'><Link to={"/education"} className="Link">Education</Link></li>
                     <li className='px-3'><Link to={"/contact"} className="Link">Contact me</Link></li>

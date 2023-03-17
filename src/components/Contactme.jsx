@@ -10,7 +10,7 @@ function Contactme(props) {
                     <h1 className='text-primary display-3 my-2'>Contact me</h1>  
                     </div>
                     <div className='contact-rowss'>
-                        <h4 className='text-silver'>DISCUSS A PROJECT OR JUST WANT TO SAY HI? MY INBOX IS OPEN FOR ALL</h4>
+                        <h4 className='text-muted'>DISCUSS A PROJECT OR JUST WANT TO SAY HI? MY INBOX IS OPEN FOR ALL</h4>
                     </div >
                     <div className='d-flex contact-rows'>
                         <i className='fa fa-mobile fa-3x text-warning align-items-center mx-3'></i>

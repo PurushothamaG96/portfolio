@@ -1,15 +1,8 @@
 import React from 'react';
-
+import "./Skil.css"
 function Skill(props) {
     return (
-        <div className="container">
-            <div>
-                
-            </div>
-            <div>
-
-            </div>
-        </div>
+        <></>
     );
 }
 

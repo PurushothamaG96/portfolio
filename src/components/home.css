@@ -18,8 +18,8 @@ margin-top: 1rem;
 }
 .left .rows p{
     text-align: center;
+    font-size: larger;
     font-weight: 500;
-    font-size: 1rem;
 }
 .icons{
     display: flex;

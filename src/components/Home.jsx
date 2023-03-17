@@ -4,6 +4,8 @@ import Education from './Education';
 import { Link } from 'react-router-dom';
 import "./home.css"
 import Project from './Project';
+import Skill from './Skill';
+import About from './About';
 function Home(props) {
     return (
         <>
@@ -13,7 +15,7 @@ function Home(props) {
                         <h1>Hi! I'm Purushothama G</h1>
                     </div>
                         <div className='rows'>
-                        <p>I help out Spider-man with his web slingers, or you could call me a fullstack developer</p>
+                        <p className="text-muted">I help out Spider-man with his web slingers, or you could call me a fullstack developer</p>
                         </div>
                         
                         <div className='icons rows'>
@@ -33,6 +35,8 @@ function Home(props) {
                     <img style={{height:"86vh"}} src="https://www.pngitem.com/pimgs/m/238-2384580_project-portfolio-management-software-hackathons-for-beginners-hd.png" alt="" />
                 </div>  
         </div>
+        <About/>
+        <Skill/>
         <Project/>
         <Education/>
         <Contactme/>

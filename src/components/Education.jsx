@@ -11,7 +11,7 @@ function Education(props) {
                 </div>
                 <div>
                     <h3>10x Academy</h3>
-                    <h4>Fullstack web-application developer on MERN Stack technologies</h4>
+                    <h4 className="text-muted">Fullstack web-application developer on MERN Stack technologies</h4>
                 </div>
             </div>
             <div className='sub-education-container'>
@@ -20,7 +20,7 @@ function Education(props) {
                 </div>
                 <div>
                     <h3>BGS Institute of Technology BG Nagar</h3>
-                    <h4>Bachelor of Engineering in Mechanical Engineering from VTU</h4>
+                    <h4 className="text-muted">Bachelor of Engineering in Mechanical Engineering from VTU</h4>
                 </div>
             </div>
             <div className='sub-education-container'>
@@ -29,7 +29,7 @@ function Education(props) {
                 </div>
                 <div>
                     <h3>SET Polytechnic Melkote</h3>
-                    <h4>Diploma in Mechanical Engineering from DTE</h4>
+                    <h4 className="text-muted">Diploma in Mechanical Engineering from DTE</h4>
                 </div>
             </div>
             <div className='sub-education-container'>
@@ -38,7 +38,7 @@ function Education(props) {
                 </div>
                 <div>
                     <h3>SMR High School Magadi</h3>
-                    <h4>Secondery School Leaving Certificate from KSEEB</h4>
+                    <h4 className="text-muted">Secondery School Leaving Certificate from KSEEB</h4>
                 </div>
             </div>
         </div>
