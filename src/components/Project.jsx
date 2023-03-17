@@ -21,6 +21,13 @@ function Project(props) {
                     <p className='hide text-white'>Istaclone project built for view other image and story posts and post own story and images others to view. Simply say Social media.</p>
                     </a>
                 </div>
+                <div className='project-card'>
+                    <a href="https://purushothama-fub-game.onrender.com" target="_blank">
+                    <h1 className="text-white text-center">Shooting Game</h1>
+                    <img className='hide-image' src="https://previews.123rf.com/images/_fla/_fla1211/_fla121100099/16468935-sniper-target.jpg" alt=" Contact-manager" />
+                    <p className='hide text-white'>Its A small Shooting game support for desktop mode. This apllication built for to contest with Code is fun which is hosted by 10x academy. Application is built on React JS and Css</p>
+                    </a>
+                </div>
             </div>
                 
 
