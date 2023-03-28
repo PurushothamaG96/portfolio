@@ -7,7 +7,7 @@ function Contactme(props) {
             <div className='container contact-container'>
                 <div className='sub-contact-container contact-left'>
                     <div className='contact-rowss'>
-                    <h1 className='text-primary display-3 my-2'>Contact me</h1>  
+                    <h1 className='text-primary display-3 my-2'>Contact us</h1>  
                     </div>
                     <div className='contact-rowss'>
                         <h4 className='text-muted'>DISCUSS A PROJECT OR JUST WANT TO SAY HI? MY INBOX IS OPEN FOR ALL</h4>

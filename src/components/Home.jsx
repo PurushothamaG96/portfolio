@@ -32,7 +32,7 @@ function Home(props) {
                         </div>
                 </div>
                 <div className='sub-container right'>
-                    <img style={{height:"86vh"}} src="https://www.pngitem.com/pimgs/m/238-2384580_project-portfolio-management-software-hackathons-for-beginners-hd.png" alt="" />
+                    <img src={require("../Assets/profile.png")} alt="" />
                 </div>  
         </div>
         <About/>
