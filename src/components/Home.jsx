@@ -29,7 +29,7 @@ function Home(props) {
                         </div>
                         <div className='rows'>
                             <button className='btn btn-primary mx-2'><a className='text-white text-decoration-none' href={require("../Assets/Purushothama_Resume_v4.pdf")} target="_blank">Resume</a></button>
-                            <Link to="/contact"><button className='btn btn-primary'>Contact me</button></Link>
+                            <Link to="/contact"><button className='btn btn-primary'>Contact us</button></Link>
                         </div>
                 </div>
                 <div className='sub-container right'>
