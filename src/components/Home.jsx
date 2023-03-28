@@ -28,6 +28,7 @@ function Home(props) {
                             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXi7VwLoTsDx55_06y1rN9A3WzGy6-UKwZvg&usqp=CAU" alt="" />
                         </div>
                         <div className='rows'>
+                            <button className='btn btn-primary mx-2'><a className='text-white' href={require("../Assets/Purushothama_Resume_v4.pdf")} target="_blank">Resume</a></button>
                             <Link to="/contact"><button className='btn btn-primary'>Contact me</button></Link>
                         </div>
                 </div>
