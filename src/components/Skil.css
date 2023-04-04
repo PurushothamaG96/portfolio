@@ -17,3 +17,8 @@
     margin: 1rem;
     border-radius: 1rem;
 }
+@media screen and (max-width:600px){
+    .skill-container img{
+        width: 75px;
+    } 
+}
