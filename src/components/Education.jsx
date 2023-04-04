@@ -10,7 +10,7 @@ function Education(props) {
                     <img className='rounded-5' src="https://coursereport-production.imgix.net/uploads/school/logo/1312/original/10x_Academy_logo.png?w=72&h=72&dpr=1&q=75" alt="" />
                 </div>
                 <div>
-                    <h3>10x Academy</h3>
+                    <h3 className='text-info'>10x Academy</h3>
                     <h4 className="text-muted">Fullstack web-application developer on MERN Stack technologies</h4>
                 </div>
             </div>
@@ -19,7 +19,7 @@ function Education(props) {
                     <img className='rounded-5 vtu' src="https://vtu.ac.in/wp-content/uploads/2019/03/vtul-291x300.png" alt="" />
                 </div>
                 <div>
-                    <h3>BGS Institute of Technology BG Nagar</h3>
+                    <h3 className='text-info'>BGS Institute of Technology BG Nagar</h3>
                     <h4 className="text-muted">Bachelor of Engineering in Mechanical Engineering from VTU</h4>
                 </div>
             </div>
@@ -28,7 +28,7 @@ function Education(props) {
                     <img className='rounded-5 vtu' src="https://content3.jdmagicbox.com/comp/bangalore/23/080p5152223/catalogue/board-of-technical-examinations-palace-road-bangalore-government-organisations-28w0d77.jpg" alt="" />
                 </div>
                 <div>
-                    <h3>SET Polytechnic Melkote</h3>
+                    <h3 className='text-info'>SET Polytechnic Melkote</h3>
                     <h4 className="text-muted">Diploma in Mechanical Engineering from DTE</h4>
                 </div>
             </div>
@@ -37,7 +37,7 @@ function Education(props) {
                     <img className='rounded-5 vtu' src="https://3.bp.blogspot.com/-X1fih8YIlu4/WrSRAE-AQnI/AAAAAAAAB_M/fVb2THvql8UiqRTVErIdVwQUiVj7ARk6ACLcBGAs/s1600/karnataka-sslc-results.jpeg" alt="" />
                 </div>
                 <div>
-                    <h3>SMR High School Magadi</h3>
+                    <h3 className='text-info'>SMR High School Magadi</h3>
                     <h4 className="text-muted">Secondery School Leaving Certificate from KSEEB</h4>
                 </div>
             </div>

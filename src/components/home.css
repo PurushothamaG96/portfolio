@@ -36,6 +36,50 @@ margin-top: 1rem;
 .rows{
     margin: 1rem;
 }
+.i-title{
+    height: 50px;
+    overflow: hidden;
+}
+.i-title-wrapper{
+    height: 100%;
+    animation: move 10s ease-in-out infinite alternate;
+}
+
+.i-title-item{
+    font-size: 2rem;
+    font-weight: 600;
+    color:aqua;
+}
+@keyframes move {
+  
+    11%{
+transform: translateY(-50px);
+    }
+    22%{
+transform: translateY(-100px);
+    }
+    33%{
+transform: translateY(-150px);
+    }
+    44%{
+transform: translateY(-200px);
+    }
+    55%{
+transform: translateY(-250px);
+    }
+    66%{
+transform: translateY(-300px);
+    }
+    77%{
+transform: translateY(-350px);
+    }
+    88%{
+transform: translateY(-400px);
+    }
+    100%{
+transform: translateY(-450px);
+    }
+}
 
 @media screen and (max-width:1000px) {
     .sub-container{
