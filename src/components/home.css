@@ -1,16 +1,14 @@
 .sub-container{
 width: 50%;
 margin-top: 1rem;
-height: 100vh;
+height: 80vh;
 }
 .main-container{
     display: flex;
     flex-wrap: wrap;
 }
 
-.sub-container img{
-    width: 100%;
-}
+
 .left{
     display: flex;
     flex-direction: column;
@@ -40,6 +38,14 @@ height: 100vh;
 .i-title{
     height: 50px;
     overflow: hidden;
+}
+.right{
+    display: flex;
+    justify-content: center;
+}
+.right img{
+    height: 80vh;
+    
 }
 .i-title-wrapper{
     height: 100%;
